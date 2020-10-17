@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UniversidadeApp</string>
+    <string name="busca_universidade">Nome do universidade</string>
+    <string name="botao_busca">Buscar</string>
+    <string name="lbl_pais">País</string>
+    <string name="lbl_sigla_pais">Sigla do País</string>
+    <string name="lbl_website">Website</string>
+    <string name="erro_rede">Rede indisponível</string>
+    <string name="idioma">pt</string>
+    <string name="pais">BR</string>
+</resources>
