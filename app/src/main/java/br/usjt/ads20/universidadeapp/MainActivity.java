@@ -25,7 +25,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
-    private EditText txtNome;
+    private EditText txtNome;  
     private ProgressBar progressBar;
     public static final String NOME = "br.usjt.ads20.appfilmes.nome";
     public static final String UNIVERSIDADES = "br.usjt.ads20.appfilmes.universidades";
